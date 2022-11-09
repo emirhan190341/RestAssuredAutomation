@@ -38,7 +38,6 @@ public class TestOnLocalAPI {
                 .then()
                 .statusCode(201);
 
-
     }
 
     //for updating the user
